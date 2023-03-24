@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "popsom"]
+	path = popsom
+	url = https://github.com/cran/popsom
+	shallow = true
+	registered = true
